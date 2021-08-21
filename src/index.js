@@ -8,7 +8,8 @@ ReactDOM.render(
   <div>
     <h1>hi {name}</h1>
     <p>
-      hey hi how's your day going. Today is {currentDate + "" + currentYear}{" "}
+      hey hi how's your day and life going?. Today is
+      {currentDate + "" + currentYear}
     </p>
   </div>,
   document.getElementById("root")
